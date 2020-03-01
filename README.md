@@ -6,7 +6,10 @@ This is a multithreading tool for downloading flamingos images from given URLs a
 
 Python 3.x
 
-## Usage
+## DownloadThread Usage
 
 $ python3 DownloadThread.py
+
+## DownloadSingle Usage
+
 $ python3 DownloadSingle.py
