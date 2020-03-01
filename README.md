@@ -9,3 +9,4 @@ Python 3.x
 ## Usage
 
 $ python3 DownloadThread.py
+$ python3 DownloadSingle.py
